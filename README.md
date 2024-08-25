@@ -25,13 +25,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aarohidhand&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarohidhand&show_icons=true&locale=en&layout=compact" alt="aarohidhand" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarohidhand&show_icons=true&locale=en" alt="aarohidhand" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarohidhand&" alt="aarohidhand" /></p>
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
