@@ -26,6 +26,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarohidhand&" alt="aarohidhand" /></p>
 
+<img src="https://raw.githubusercontent.com/aarohidhand/aarohidhand/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
