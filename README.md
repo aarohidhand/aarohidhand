@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in both Cyber Security $ Artificial Intelligence
   
-- 🌱 I’m currently learning Neural Networks
+- 🌱 I’m currently doing Research in DL and ML
 
-- 💞️ I’m looking to collaborate on **Hackathons** so hit me up if you wanna join me 🕵🏿‍♀️
+- 🗣️ I love any tech-banter so hit me if you wanna chat 🌟
 
 - ⚡ Fun fact: My virtual name is Nyxel Ray, so you may find it on my page a lot 👾
 
